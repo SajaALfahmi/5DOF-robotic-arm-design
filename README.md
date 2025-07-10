@@ -47,6 +47,7 @@ Below are some images of the 3D model of the robotic arm:
 ## Authors
 
 Saja Al-Fahmi 
+
 Raghad Al-Salmi 
 
 This project was a collaborative effort between both team members using Tinkercad.
